@@ -687,8 +687,8 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      text: 了解更多
+      link: https://github.com/XDY18LIUDENGLIN
   card_announcement:
     enable: true
     content: This is my Blog
