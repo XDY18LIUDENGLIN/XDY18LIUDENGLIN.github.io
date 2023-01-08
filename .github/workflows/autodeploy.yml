@@ -57,7 +57,7 @@ jobs:
       - name: 部署到Github
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: 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
+          token: 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
           repository-name: XDY18LIUDENGLIN/XDY18LIUDENGLIN.github.io
           branch: main
           folder: public
