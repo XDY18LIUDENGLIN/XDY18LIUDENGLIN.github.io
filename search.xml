@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>我的VPN配置</title>
-      <link href="/posts/b3966572.html"/>
-      <url>/posts/b3966572.html</url>
-      
-        <content type="html"><![CDATA[<ul><li>密码 18692272098Liu</li><li>端口号 19925</li><li>加密方式 aes-256-cfb</li><li>Ip地址   23.100.90.132</li><li>QRCode  ss://YWVzLTI1Ni1jZmI6MTg2OTIyNzIwOThMaXVAMjMuMTAwLjkwLjEzMjoxOTkyNQ==</li><li>CodePath /root/shadowsocks_python_qr.png</li></ul>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>多线程-自定义线程池使用方式</title>
       <link href="/posts/ea641220.html"/>
       <url>/posts/ea641220.html</url>
@@ -258,7 +245,7 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[    <div id="aplayer-yloMPzJD" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8032485835" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="100" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[    <div id="aplayer-ctvPEZqS" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8032485835" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="100" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
